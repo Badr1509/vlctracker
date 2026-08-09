@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.0",
   "url": "https://github.com/Badr1509/vlctracker/releases/latest",
-  "notes": "Initial release with Friends feed, spoiler protection, and offline queue.",
-  "published": "2026-08-08",
+  "notes": "Fixed uninstaller prompt bugs and internal script syntax errors.",
+  "published": "2026-08-09",
   "critical": false
 }
